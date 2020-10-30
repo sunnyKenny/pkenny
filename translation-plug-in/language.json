@@ -1,0 +1,89 @@
+﻿[
+  {
+    "key": "英语",
+    "value": "en"
+  },
+  {
+    "key": "粤语",
+    "value": "yue"
+  },
+  {
+    "key": "文言文",
+    "value": "wyw"
+  },
+  {
+    "key": "繁体中文",
+    "value": "cht"
+  },
+  {
+    "key": "日语",
+    "value": "jp"
+  },
+  {
+    "key": "韩语",
+    "value": "kor"
+  },
+  {
+    "key": "俄语",
+    "value": "ru"
+  },
+  {
+    "key": "德语",
+    "value": "de"
+  },
+
+  {
+    "key": "法语",
+    "value": "fra"
+  },
+  {
+    "key": "西班牙语",
+    "value": "spa"
+  },
+  {
+    "key": "泰语",
+    "value": "th"
+  },
+  {
+    "key": "阿拉伯语",
+    "value": "ara"
+  },
+
+  {
+    "key": "希腊语",
+    "value": "el"
+  },
+  {
+    "key": "意大利语",
+    "value": "it"
+
+  },
+  {
+    "key": "芬兰语",
+    "value": "fin"
+
+  },
+  {
+    "key": "荷兰语",
+    "value": "nl"
+
+  },
+  {
+    "key": "越南语",
+    "value": "vie"
+
+  },
+  {
+    "key": "波兰语",
+    "value": "pl"
+
+  },
+  {
+    "key": "瑞典语",
+    "value": "swe"
+
+  }
+
+]
+
+
